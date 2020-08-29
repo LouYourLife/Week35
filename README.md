@@ -18,9 +18,7 @@ Projektet ex2 i folderen 02_tirsdag på Github.
 
 Se Test Packages -> dbfacade -> CustomerFacadeTest
 
-Jeg fik ikke testet metoderne, men klassen blev oprettet.
-
-**Få lavet de tests.**
+Jeg fik ikke alle mine tests til at virke, men størstedelen kom op og køre.
 
 ## Onsdag
 ### Exercise 1
